@@ -1,3 +1,6 @@
+//一个用来做数据清洗的程序，主要用来处理股票交易信息，可以生成时间线，例如秒线，分线，时线
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
